@@ -21,9 +21,8 @@ python>=3.10.0
   ### 시작
   
   > python word_practice.py 단어파일경로(.xlsx) 공부할 Sheet이름
->
+
   <img width="867" alt="image" src="https://github.com/DeveloperSeJin/word_practice/assets/114290488/ae36d7c7-cdd7-40f0-855c-9a5639e17105">
-  
   ---
   
   ### 문제 풀이
