@@ -7,6 +7,11 @@
 1. 영어단어 문제 제출
 2. 틀린 단어 복습 가능
 
+## 버전
+openpyxl==3.0.0
+pandas==0.25.1
+python>=3.10.0
+
 ## 사용예시
 <div align="center">
   
