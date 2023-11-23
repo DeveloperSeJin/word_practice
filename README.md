@@ -28,7 +28,6 @@ python>=3.10.0
   ### 문제 풀이
 
   <img width="867" alt="image" src="https://github.com/DeveloperSeJin/word_practice/assets/114290488/de7a0969-0ca5-47e6-aff7-0aeb708c6025">
-  
   ---
   
   ### 틀린 단어 확인
@@ -36,6 +35,7 @@ python>=3.10.0
   <img width="867" alt="image" src="https://github.com/DeveloperSeJin/word_practice/assets/114290488/ab82d5a6-2648-4378-97eb-87ccdfd03d1b">
 
   <img width="867" alt="image" src="https://github.com/DeveloperSeJin/word_practice/assets/114290488/7e8e213a-44fa-4121-81fe-2ea0e993cdfd">
+  ---
 
   ### 엑셀 파일 양식
   <img width="900" alt="image" src="https://github.com/DeveloperSeJin/word_practice/assets/114290488/bf7c99c2-14cc-4310-bf08-2dcc536b0a98">
