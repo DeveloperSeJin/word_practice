@@ -27,4 +27,7 @@
 
   <img width="867" alt="image" src="https://github.com/DeveloperSeJin/word_practice/assets/114290488/7e8e213a-44fa-4121-81fe-2ea0e993cdfd">
 
+  ### 엑셀 파일 양식
+  <img width="900" alt="image" src="https://github.com/DeveloperSeJin/word_practice/assets/114290488/bf7c99c2-14cc-4310-bf08-2dcc536b0a98">
+
 </div>
